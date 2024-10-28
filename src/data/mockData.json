@@ -1,0 +1,73 @@
+{
+  "featuredEvents": [
+    { "id": 1, "title": "Concerts", "image": "/assets/images/hero-bg.jpg" },
+    { "id": 2, "title": "Food Festival", "image": "/assets/images/Food_Festival.jpg" },
+    { "id": 3, "title": "Conference", "image": "/assets/images/Conference.jpg" },
+    { "id": 4, "title": "Art Shows", "image": "/assets/images/Art_Shows.jpg" },
+    { "id": 5, "title": "Workshops", "image": "/assets/images/Workshops.png" }
+  ],
+  "topRatedEvents": [
+    {
+      "id": 1,
+      "title": "Sunset Concert",
+      "location": "Park",
+      "price": "$20",
+      "rating": 4.8,
+      "image": "/assets/images/sunset_concert.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Diljit Dosanjh",
+      "location": "Dil-Luminati",
+      "price": "$30",
+      "rating": 4.9,
+      "image": "/assets/images/diljit.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Sports Mania",
+      "location": "Stadium",
+      "price": "$40",
+      "rating": 4.5,
+      "image": "/assets/images/sports_mania.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Tech Summit",
+      "location": "Convention Center",
+      "price": "$60",
+      "rating": 4.7,
+      "image": "/assets/images/tech_summit.png"
+    }
+  ],
+  "discoverEvents": [
+    {
+      "id": 1,
+      "title": "Live Concert",
+      "description": "Music experience for music lovers.",
+      "likes": 24,
+      "image": "/assets/images/sunset_concert.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Food Festival",
+      "description": "Explore cuisines in one place.",
+      "likes": 12,
+      "image": "/assets/images/food_festival.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Painting Workshop",
+      "description": "Unleash creativity with paint.",
+      "likes": 24,
+      "image": "/assets/images/Art_Shows.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Cultural Dance Show",
+      "description": "Traditional dances from around the world.",
+      "likes": 13,
+      "image": "/assets/images/Bihu-Dance-Performance.jpg"
+    }
+  ]
+}
